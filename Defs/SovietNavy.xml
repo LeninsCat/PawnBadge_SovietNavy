@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <RR_PawnBadge.BadgeDef>
+    <defName>SovietNavy_Matrose</defName>
+    <label>Soviet Navy - Matrose</label>
+    <description>Soviet Military Navy Rank - Matrose</description>
+    <icon>PawnBadge/SovietNavy/v1-mastrose</icon>
+  </RR_PawnBadge.BadgeDef>
+  <RR_PawnBadge.BadgeDef>
+    <defName>SovietNavy_SMatrose</defName>
+    <label>Soviet Navy - Senior Matrose</label>
+    <description>Soviet Military Navy Rank - Senior Matrose</description>
+    <icon>PawnBadge/SovietNavy/v2-smastrose</icon>
+  </RR_PawnBadge.BadgeDef>
+  <RR_PawnBadge.BadgeDef>
+    <defName>SovietNavy_Starshinasc</defName>
+    <label>Soviet Navy - Starshina Second Class</label>
+    <description>Soviet Military Navy Rank - Starshina Second Class</description>
+    <icon>PawnBadge/SovietNavy/v3-starshinasc</icon>
+  </RR_PawnBadge.BadgeDef>
+  <RR_PawnBadge.BadgeDef>
+    <defName>SovietNavy_Starshinafc</defName>
+    <label>Soviet Navy - Starshina First Class</label>
+    <description>Soviet Military Navy Rank - Starshina First Class</description>
+    <icon>PawnBadge/SovietNavy/v4-starshinafc</icon>
+  </RR_PawnBadge.BadgeDef>
+  <RR_PawnBadge.BadgeDef>
+    <defName>SovietNavy_ChiefStarshina</defName>
+    <label>Soviet Navy - Chief Starshina</label>
+    <description>Soviet Military Navy Rank - Chief Starshina</description>
+    <icon>PawnBadge/SovietNavy/v5-chiefstarshina</icon>
+  </RR_PawnBadge.BadgeDef>
+  <RR_PawnBadge.BadgeDef>
+    <defName>SovietNavy_ChiefShipStarshina</defName>
+    <label>Soviet Navy - Chief Ship Starshina</label>
+    <description>Soviet Military Navy Rank - Chief Ship Starshina</description>
+    <icon>PawnBadge/SovietNavy/v6-chiefshipstarshina</icon>
+  </RR_PawnBadge.BadgeDef>
+  <RR_PawnBadge.BadgeDef>
+    <defName>SovietNavy_Michman</defName>
+    <label>Soviet Navy - Michman</label>
+    <description>Soviet Military Navy Rank - Michman</description>
+    <icon>PawnBadge/SovietNavy/v7-michman</icon>
+  </RR_PawnBadge.BadgeDef>
+  <RR_PawnBadge.BadgeDef>
+    <defName>SovietNavy_SeniorMichman</defName>
+    <label>Soviet Navy - Senior Michman</label>
+    <description>Soviet Military Navy Rank - Senior Michman</description>
+    <icon>PawnBadge/SovietNavy/v8-seniormichman</icon>
+  </RR_PawnBadge.BadgeDef>
+  <RR_PawnBadge.BadgeDef>
+    <defName>SovietNavy_MLieutenant</defName>
+    <label>Soviet Navy - Molozhe-Lieutenant</label>
+    <description>Soviet Military Navy Rank - Molozhe-Lieutenant</description>
+    <icon>PawnBadge/SovietNavy/v9-mlieutenant</icon>
+  </RR_PawnBadge.BadgeDef>
+  <RR_PawnBadge.BadgeDef>
+    <defName>SovietNavy_Lieutenant</defName>
+    <label>Soviet Navy - Lieutenant</label>
+    <description>Soviet Military Navy Rank - Lieutenant</description>
+    <icon>PawnBadge/SovietNavy/v10-lieutenant</icon>
+  </RR_PawnBadge.BadgeDef>
+  <RR_PawnBadge.BadgeDef>
+    <defName>SovietNavy_SLieutenant</defName>
+    <label>Soviet Navy - Starshiy-Lieutenant</label>
+    <description>Soviet Military Navy Rank - Starshiy-Lieutenant</description>
+    <icon>PawnBadge/SovietNavy/v11-slieutenant</icon>
+  </RR_PawnBadge.BadgeDef>
+  <RR_PawnBadge.BadgeDef>
+    <defName>SovietNavy_KaptainLieutenant</defName>
+    <label>Soviet - Kaptain Lieutenant</label>
+    <description>Soviet Military Navy Rank - Kaptain Lieutenant</description>
+    <icon>PawnBadge/SovietNavy/v12-captainlieutenant</icon>
+  </RR_PawnBadge.BadgeDef>
+  <RR_PawnBadge.BadgeDef>
+    <defName>SovietNavy_CaptainThird</defName>
+    <label>Soviet Navy - Captain Third Rank</label>
+    <description>Soviet Military Navy Rank - Captain Third Rank</description>
+    <icon>PawnBadge/SovietNavy/v13-captainthird</icon>
+  </RR_PawnBadge.BadgeDef>
+  <RR_PawnBadge.BadgeDef>
+    <defName>SovietNavy_CaptainSecond</defName>
+    <label>Soviet Navy - Captain Second Rank</label>
+    <description>Soviet Military Navy Rank - Captain Second Rank</description>
+    <icon>PawnBadge/SovietNavy/v14-captainsecond</icon>
+  </RR_PawnBadge.BadgeDef>
+  <RR_PawnBadge.BadgeDef>
+    <defName>SovietNavy_CaptainFirst</defName>
+    <label>Soviet Navy - Captain First Rank</label>
+    <description>Soviet Military Navy Rank - Captain First Rank</description>
+    <icon>PawnBadge/SovietNavy/v15-captainfirst</icon>
+  </RR_PawnBadge.BadgeDef>
+  <RR_PawnBadge.BadgeDef>
+    <defName>SovietNavy_Counter-Admiral</defName>
+    <label>Soviet Navy - Counter-Admiral</label>
+    <description>Soviet Military Navy Rank - Counter-Admiral</description>
+    <icon>PawnBadge/SovietNavy/v16-counteradmiral</icon>
+  </RR_PawnBadge.BadgeDef>
+  <RR_PawnBadge.BadgeDef>
+    <defName>SovietNavy_Vice-Admiral</defName>
+    <label>Soviet Navy - Vice-Admiral</label>
+    <description>Soviet Military Navy Rank - Vice-Admiral</description>
+    <icon>PawnBadge/SovietNavy/v17-viceadmiral</icon>
+  </RR_PawnBadge.BadgeDef>
+  <RR_PawnBadge.BadgeDef>
+    <defName>SovietNavy_Admiral</defName>
+    <label>Soviet Navy - Admiral</label>
+    <description>Soviet Military Navy Rank - Admiral</description>
+    <icon>PawnBadge/SovietNavy/v18-admiral</icon>
+  </RR_PawnBadge.BadgeDef>
+  <RR_PawnBadge.BadgeDef>
+    <defName>SovietNavy_AdmiralOfFleet</defName>
+    <label>Soviet Navy - Admiral of the Fleet</label>
+    <description>Soviet Military Navy Rank - Admiral of the Fleet</description>
+    <icon>PawnBadge/SovietNavy/v19-admiraloffleet</icon>
+  </RR_PawnBadge.BadgeDef>
+  <RR_PawnBadge.BadgeDef>
+    <defName>SovietNavy_AdmiralOfFleetSU</defName>
+    <label>Soviet Navy - Admiral of the Fleet of the Soviet Union</label>
+    <description>Soviet Military Navy Rank - Admiral of the Fleet of the Soviet Union</description>
+    <icon>PawnBadge/SovietNavy/v20-admiraloffleetSU</icon>
+  </RR_PawnBadge.BadgeDef>
+</Defs>
