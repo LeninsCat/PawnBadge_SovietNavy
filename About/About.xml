@@ -10,4 +10,16 @@
     Adds Soviet military rank badges from "Matrose" to "Admiral of the Fleet of the Soviet Union"
   </description>
   <packageId>LeninsCat.SovietNavyPawnBadge</packageId>
+<modDependencies>
+	  <li>
+		<packageId>SaucyPigeon.PawnBadge</packageId>
+		<displayName>Pawn Badge Fan Fork</displayName>
+		<downloadUrl>https://github.com/SaucyPigeon/RR_PawnBadge/releases/latest</downloadUrl>
+		<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2112663412</steamWorkshopUrl>
+	  </li>
+	</modDependencies>
+
+	<loadAfter>
+	  	<li>SaucyPigeon.PawnBadge</li>
+	</loadAfter>
 </ModMetaData>
